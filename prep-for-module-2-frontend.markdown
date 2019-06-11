@@ -26,7 +26,7 @@ $(‘#moo-cow’).text(‘MOOOOO’);
 
  You’ll be allowed (and encouraged) to use jQuery in your upcoming projects, so we would recommend familiarizing yourself with the library by doing the following reading and exercises:  
 
- - [ ] * Using jQuery Core: https://learn.jquery.com/using-jquery-core/ 
+- [X] * Using jQuery Core: https://learn.jquery.com/using-jquery-core/ 
     * document.ready()  
     * Selecting Elements  
     * Working with Selections 
