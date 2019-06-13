@@ -32,7 +32,7 @@ $(‘#moo-cow’).text(‘MOOOOO’);
     * Working with Selections 
     * Manipulating Elements 
     * Traversing  
-- [ ] * CodeAcademy jQuery Course: https://www.codecademy.com/learn/learn-jquery  
+- [X] * CodeAcademy jQuery Course: https://www.codecademy.com/learn/learn-jquery  
     * Introduction  
     * Effects 
     * Events  
