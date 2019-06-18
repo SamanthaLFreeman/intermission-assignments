@@ -52,23 +52,23 @@ In Mod 1, you mostly learned JavaScript syntax that was introduced with the ES5 
 
 You may have come across some ES6 syntax throughout your independent study (including variable declarations like `let`, `const`, arrow functions, and even Classes). In Mod 2, we'll expect you to begin using ES6 features and syntax where appropriate. Read more about the following ES6 features from [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read):
 
-- [ ] - From [Chapter 1: Block Bindings](https://leanpub.com/understandinges6/read#leanpub-auto-block-bindings), read:
+- [X] - From [Chapter 1: Block Bindings](https://leanpub.com/understandinges6/read#leanpub-auto-block-bindings), read:
   * the entire chapter
-- [ ] - From [Chapter 2: Strings](https://leanpub.com/understandinges6/read#leanpub-auto-template-literals), read:
+- [X] - From [Chapter 2: Strings](https://leanpub.com/understandinges6/read#leanpub-auto-template-literals), read:
   * Template Literals
-- [ ] - From [Chapter 3: Functions](https://leanpub.com/understandinges6/read#leanpub-auto-functions), read:
+- [X] - From [Chapter 3: Functions](https://leanpub.com/understandinges6/read#leanpub-auto-functions), read:
   * Functions with Default Parameter Values
   * The Spread Operator
   * Arrow Functions
-- [ ] - From [Chapter 4: Expanded Object Functionality](https://leanpub.com/understandinges6/read#leanpub-auto-expanded-object-functionality), read:
+- [X] - From [Chapter 4: Expanded Object Functionality](https://leanpub.com/understandinges6/read#leanpub-auto-expanded-object-functionality), read:
   * Object Literal Syntax Extensions
   * New Methods
   * Duplicate Object Literal Properties
-- [ ] - From [Chapter 5: Destructuring for Easier Data Access](https://leanpub.com/understandinges6/read#leanpub-auto-destructuring-for-easier-data-access), read:
+- [X] - From [Chapter 5: Destructuring for Easier Data Access](https://leanpub.com/understandinges6/read#leanpub-auto-destructuring-for-easier-data-access), read:
   * Why is Destructuring Useful?
   * Object Destructuring
   * Array Destructuring'
-- [ ] - From [Chapter 10: Improved Array Capabilities](https://leanpub.com/understandinges6/read#leanpub-auto-improved-array-capabilities), read:
+- [X] - From [Chapter 10: Improved Array Capabilities](https://leanpub.com/understandinges6/read#leanpub-auto-improved-array-capabilities), read:
   * Creating Arrays
   * New Methods on All Arrays
 
