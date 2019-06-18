@@ -75,7 +75,7 @@ You may have come across some ES6 syntax throughout your independent study (incl
 
 When talking about different versions of JavaScript, you'll also hear about a tool called [Babel](https://babeljs.io/). Babel allows developers to use the latest and greatest JavaScript syntax, without having to worry about whether or not browsers support it yet. This works by taking any fancy ES6/ES7 code that you've written, and transpiling it down back to an older, more supported version before it reaches the browser. This transpilation process is pretty invisible to the developer, and allows you to keep yourself up-to-date with the latest language features without having to worry about your apps being broken in the browser.
 
-- [ ] Walk through this [ES6 Tutorial](http://ccoenraets.github.io/es6-tutorial/), which has you install Babel and should give some insight into what it's doing:
+- [X] Walk through this [ES6 Tutorial](http://ccoenraets.github.io/es6-tutorial/), which has you install Babel and should give some insight into what it's doing:
   - `Setting Up Babel`
   - `Using let Variables`
   - `Using Destructuring`
@@ -90,13 +90,13 @@ When talking about different versions of JavaScript, you'll also hear about a to
 
 In Mod 2 you'll be working with a lot of **application data**. Familiarize yourself with:
 
-- [ ] -*What JSON is, why it exists, and where you might see it being used*  
-- [ ] -*The difference between JSON and a regular JavaScript object*
-  - Read the [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+-*What JSON is, why it exists, and where you might see it being used*  
+-*The difference between JSON and a regular JavaScript object*
+- [X]  - Read the [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 ) on JSON. Complete the tutorial/exercise `Active learning: Working through a JSON example`.
-  - Read [this](https://www.digitalocean.com/community/tutorials/an-introduction-to-json) intro to JSON
-  - Install the Chrome Extension `JSONView` to make JSON more readable in the browser 
-  - Create your own JSON dataset (referencing the above resources as needed) and post it in your Slack channel for feedback
+- [ ]  - Read [this](https://www.digitalocean.com/community/tutorials/an-introduction-to-json) intro to JSON
+- [ ]  - Install the Chrome Extension `JSONView` to make JSON more readable in the browser 
+- [ ]  - Create your own JSON dataset (referencing the above resources as needed) and post it in your Slack channel for feedback
 
 ------------------------------------------------------
 
