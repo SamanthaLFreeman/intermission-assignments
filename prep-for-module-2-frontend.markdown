@@ -37,7 +37,7 @@ $(‘#moo-cow’).text(‘MOOOOO’);
     * Effects 
     * Events  
     * Traversing the DOM  
-- [ ] * Take a Mod 1 project and incorporate the jQuery library. Refactor your DOM selections and interactions from plain JavaScript to jQuery. 
+- [X] * Take a Mod 1 project and incorporate the jQuery library. Refactor your DOM selections and interactions from plain JavaScript to jQuery. 
 
 
 ------------------------------------------------------
@@ -160,9 +160,9 @@ Do some independent research on the above bullet points, then answer the followi
   - [X] - *Change for loops into `forEach`*
     - You'll be working with a lot of Array iterator methods in Mod 2 like [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), start practicing them now!
     - Focus on: `forEach`, `map`, `filter`, `find`, `sort`, and `reduce`
-  - [ ] - *Try out converting some ES5 syntax to ES6*
+  - [X] - *Try out converting some ES5 syntax to ES6*
     - You can refactor and your projects they should still work in Google Chrome
-  - [ ] - *Install the linter configuration and lint your JavaScript style*
+  - [X] - *Install the linter configuration and lint your JavaScript style*
     - Add the `.eslintrc` file linked above to your project directory (it must be named `.eslintrc`)
     - From your terminal, within your project directory, run: `eslint ./index.js` (or the path to whatever JavaScript file you want to lint)
     - Read through the output and fix the errors - you are given line numbers and an explanation of what's wrong for each error.
