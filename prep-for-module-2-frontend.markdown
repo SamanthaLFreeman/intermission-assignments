@@ -5,7 +5,7 @@
 
 - [X] Make a fresh copy of [this google doc](https://docs.google.com/document/d/1l08-d5Vdx4r4iGCaZ3mpUm4n3SJVaPI9lqVpp5W_epU/edit#) that you can edit.  This document contains some reading material and practice exercises that will help you solidify important concepts from Mod 1. Some information might be new to you, some might be review.
 
-- [ ] You should read through this document and fill out any practice exercises or question prompts in the copy that you've created. **Send your completed copy to instructors via Slack before Day 1 of the inning.**
+- [X] You should read through this document and fill out any practice exercises or question prompts in the copy that you've created. **Send your completed copy to instructors via Slack before Day 1 of the inning.**
 
 
 
@@ -94,9 +94,9 @@ In Mod 2 you'll be working with a lot of **application data**. Familiarize yours
 -*The difference between JSON and a regular JavaScript object*
 - [X]  - Read the [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 ) on JSON. Complete the tutorial/exercise `Active learning: Working through a JSON example`.
-- [ ]  - Read [this](https://www.digitalocean.com/community/tutorials/an-introduction-to-json) intro to JSON
-- [ ]  - Install the Chrome Extension `JSONView` to make JSON more readable in the browser 
-- [ ]  - Create your own JSON dataset (referencing the above resources as needed) and post it in your Slack channel for feedback
+- [X]  - Read [this](https://www.digitalocean.com/community/tutorials/an-introduction-to-json) intro to JSON
+- [X]  - Install the Chrome Extension `JSONView` to make JSON more readable in the browser 
+- [X]  - Create your own JSON dataset (referencing the above resources as needed) and post it in your Slack channel for feedback
 
 ------------------------------------------------------
 
@@ -126,11 +126,11 @@ Do some independent research on the above bullet points, then answer the followi
 
 ## Linting
 
-- [ ] In Mod 1, you were given general [style guides](https://github.com/turingschool-examples/javascript/tree/master/es5) for how you should be writing your code. In Mod 2, we're going to enforce a linter. A linter helps make sure that the way you write your JavaScript conforms to certain stylistic patterns and best practices.
+- [X] In Mod 1, you were given general [style guides](https://github.com/turingschool-examples/javascript/tree/master/es5) for how you should be writing your code. In Mod 2, we're going to enforce a linter. A linter helps make sure that the way you write your JavaScript conforms to certain stylistic patterns and best practices.
 
-- [ ] We'll be working with a tool called [eslint](https://eslint.org/), and your projects will be required to abide by the following [rules](https://github.com/turingschool-examples/javascript/blob/master/linters/module-2/non-react/.eslintrc). Read through the "rules" object in the `.eslintrc` file and look through the eslint documentation to [find each rule](https://eslint.org/docs/rules/), and familiarize yourself with what it does.
+- [X] We'll be working with a tool called [eslint](https://eslint.org/), and your projects will be required to abide by the following [rules](https://github.com/turingschool-examples/javascript/blob/master/linters/module-2/non-react/.eslintrc). Read through the "rules" object in the `.eslintrc` file and look through the eslint documentation to [find each rule](https://eslint.org/docs/rules/), and familiarize yourself with what it does.
 
-Set yourself up with eslint by installing it with npm. In your terminal (from any directory), run the following command:
+- [X] Set yourself up with eslint by installing it with npm. In your terminal (from any directory), run the following command:
 
 `npm install -g eslint`
 
@@ -143,7 +143,7 @@ Set yourself up with eslint by installing it with npm. In your terminal (from an
 
 ## Debugging
 
-- [ ] While you may have seen and used the browser's Developer Tools in module 1, we'd like you to step through this Udemy course on [Dev Tools](https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/). Some of it may be review, but you may pick up some new tricks along the way!
+- [X] While you may have seen and used the browser's Developer Tools in module 1, we'd like you to step through this Udemy course on [Dev Tools](https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/). Some of it may be review, but you may pick up some new tricks along the way!
 
 
 
@@ -154,10 +154,10 @@ Set yourself up with eslint by installing it with npm. In your terminal (from an
 
 ## Coding: Refactor Mod 1 Projects
 
-  - [ ] - Familiarize yourself with the syntax of switch statements - *rewrite long, nested if/else statements into [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch) if possible*
-  - [ ] - *DRY up your code*
+  - [X] - Familiarize yourself with the syntax of switch statements - *rewrite long, nested if/else statements into [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch) if possible*
+  - [X] - *DRY up your code*
     - Find areas where code is duplicated and break it out into a function
-  - [ ] - *Change for loops into `forEach`*
+  - [X] - *Change for loops into `forEach`*
     - You'll be working with a lot of Array iterator methods in Mod 2 like [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), start practicing them now!
     - Focus on: `forEach`, `map`, `filter`, `find`, `sort`, and `reduce`
   - [ ] - *Try out converting some ES5 syntax to ES6*
@@ -170,6 +170,6 @@ Set yourself up with eslint by installing it with npm. In your terminal (from an
 
 ## CodeWars
 
-- [ ] If you haven't already, sign up for an account at [Codewars](https://www.codewars.com). You'll want to make doing these exercises a regular part of your practice _outside_ of the work that you are doing on projects. It is recommended that you start by filtering the exercises (Katas) so that you are coding at a Level 8. As you progress you should move into Levels 6 & 7. By the end of the module, the expectation is that you can work through what is considered the equivalent of a level 7 exercise. Doing these exercises will you give you the additional reps that are necessary to take the content that is learned in class and apply it in a different context - thus, solidifying your learning.
+- [X] If you haven't already, sign up for an account at [Codewars](https://www.codewars.com). You'll want to make doing these exercises a regular part of your practice _outside_ of the work that you are doing on projects. It is recommended that you start by filtering the exercises (Katas) so that you are coding at a Level 8. As you progress you should move into Levels 6 & 7. By the end of the module, the expectation is that you can work through what is considered the equivalent of a level 7 exercise. Doing these exercises will you give you the additional reps that are necessary to take the content that is learned in class and apply it in a different context - thus, solidifying your learning.
 
 Please DM your CodeWars handle to all 3 instructors before intermission begins.
